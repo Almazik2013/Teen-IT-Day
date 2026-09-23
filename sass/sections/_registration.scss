@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+
+.registration{
+    margin-top: 100px;
+}
+
+input{
+    border-radius: 5px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+.rty{
+    margin-top: 57px;
+    position: absolute;
+    margin-left: -50px;
+}
+
+.uio{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -210px;
+}
+
+.button{
+    margin-top: 75px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    border: blue;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
